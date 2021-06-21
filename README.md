@@ -8,7 +8,7 @@ This mod for the Game Boy Advance (AGB) was inspired by makho's [AGB_TACT](https
 Developed from the ground up, this implementation offers a no-wires-required solution, consisting of 2 (or 3) flex breakout boards for the DPAD, AB, and (optionally) START and SELECT.
 
 
-![Preview](https://github.com/Zekfoo/tactileAGB/blob/master/Images/OSHPark-Preview.png)
+![Preview](Images/OSHPark-Preview.png)
 
 
 # Mod Options and Compatibility
