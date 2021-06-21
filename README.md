@@ -5,7 +5,7 @@
 
 This mod for the Game Boy Advance (AGB) was inspired by makho's [AGB_TACT](https://github.com/makhowastaken/AGB_TACT) project which added tactile buttons to the AGB to create a similar clicky feel to the GBA SP and more recent Nintendo handhelds.
 
-Developed from the ground up, this implementation offers a no-wires-required solution, consisting of 2 (or 3) flex breakout boards for the DPAD, AB, and (optionally) START and SELECT.
+Developed from the ground up, this implementation offers a no-wires-required solution, consisting of 2 (or 3) flex breakout boards for the DPAD, A/B, and (optionally) START/SELECT.
 
 
 ![Preview](Images/OSHPark-Preview.png)
@@ -22,15 +22,15 @@ This mod is only compatible with AGB-001. Compatibility with the IPS v2 mod's br
 
 Flex board order link (Full button set) - [OSH Park](https://oshpark.com/shared_projects/VSVedxko)
 
-Flex board order link (without START and SELECT) - [OSH Park](https://oshpark.com/shared_projects/1YE4jut3)
+Flex board order link (without START/SELECT) - [OSH Park](https://oshpark.com/shared_projects/1YE4jut3)
 
-PTS526 SM08 SMTR2 LFS (for DPAD and AB - 1.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/c-k/PTS526-SM08-SMTR2-LFS/10056623)
+PTS526 SM08 SMTR2 LFS (for DPAD and A/B - 1.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/c-k/PTS526-SM08-SMTR2-LFS/10056623)
 
-PTS526 SK08 SMTR2 LFS (for DPAD and AB - 2.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/c-k/PTS526-SM08-SMTR2-LFS/10056623)
+PTS526 SK08 SMTR2 LFS (for DPAD and A/B - 2.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/c-k/PTS526-SM08-SMTR2-LFS/10056623)
 
-SOG-152ANT (for START and SELECT - 1.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/mitsumi-electric-company-ltd/SOG-152ANT/11591283)
+SOG-152ANT (for START/SELECT - 1.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/mitsumi-electric-company-ltd/SOG-152ANT/11591283)
 
-SOG-154ANT (for START and SELECT - 2.35N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/mitsumi-electric-company-ltd/SOG-154ANT/11591258)
+SOG-154ANT (for START/SELECT - 2.35N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/mitsumi-electric-company-ltd/SOG-154ANT/11591258)
 
 
 # Disclaimer
@@ -40,8 +40,30 @@ As with all hardware mods, you risk irreparable damage to your device if the pro
 
 # Installation
 
-TBD
+**General:**
+* Solder PTS526 Sx08 SMTR2 LFS buttons to their corresponding footprints on the DPAD and A/B flex boards
+* Solder SOG-15xANT buttons to their corresponding footprints on the START/SELECT flex board
 
+**DPAD**
+* Line up the holes labelled TP4, TP5, and TP7 with the corresponding testpoints on the AGB board, this should align all solder points with their corresponding contacts
+* Solder:
+  * TP4, TP5, TP6, and TP7 for each of the 4 DPAD buttons
+  * Ground connection to the pad of the L button shielding
+  * (Optional) VDD-15 can be used as an anchor point
+
+**A/B**
+* Line up the holes labelled TP0 and TP1 with the corresponding test points on the AGB board
+* Solder:
+  * TP0 and TP1 for A and B respectively
+  * Ground connection to upper right GND pad
+  * (Optional) FR2 can be used as an anchor point
+
+**START/SELECT**
+* Line up the holes labelled TP2 and TP3 with the correspoding test points on the AGB board
+* Solder:
+  * TP2 and TP3 for SELECT and START respectively
+  * Ground connection to left GND pad
+  * (For IPS v2 brightness controls) Solder the SELECT wire from the IPS ribbon cable overtop of the TP2 hole.
 
 # Acknowledgements
 
