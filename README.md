@@ -75,7 +75,7 @@ As with all hardware mods, you risk irreparable damage to your device if the pro
 
 # Acknowledgements
 
-Thanks to [Makho](https://www.youtube.com/channel/UC5FYpo9lFqK1Y7wqjPuANFw) for his original project idea and video.
+Thanks to [makho](https://www.youtube.com/channel/UC5FYpo9lFqK1Y7wqjPuANFw) for his original project idea and video.
 
 Thanks to [HDR](https://martinrefseth.com/) for compiling his Nintenfo repository, which made development much swifter.
 
@@ -84,6 +84,6 @@ Thanks to [HDR](https://martinrefseth.com/) for compiling his Nintenfo repositor
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-Feel free to modify this design however you like, but please make sure to give credit where it is due. I encourage you to share your improvements with the rest of the Gameboy modding community at the Gameboy modding [Discord](https://discord.gg/RYN3bMxr) and [Subreddit](https://www.reddit.com/r/Gameboy/)
+Feel free to modify this design however you like, but please make sure to give credit where it is due. I encourage you to share your improvements with the rest of the Gameboy modding community at the Gameboy [Discord](https://discord.gg/RYN3bMxr) and [Subreddit](https://www.reddit.com/r/Gameboy/)
 
 Under this license, you are not permitted to profit from or commercialize this design in any part without my express permission.
