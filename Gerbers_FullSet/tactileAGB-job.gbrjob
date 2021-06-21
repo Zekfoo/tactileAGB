@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.10)-1"
     },
-    "CreationDate":  "2021-06-21T00:32:38-07:00"
+    "CreationDate":  "2021-06-21T12:46:50-07:00"
   },
   "GeneralSpecs":
   {
@@ -15,12 +15,12 @@
     {
       "Name": "tactileAGB",
       "GUID": "74616374-696c-4654-9147-422e6b696361",
-      "Revision": "rev?"
+      "Revision": "1.0"
     },
     "Size":
     {
-      "X": 33.376,
-      "Y": 49.159
+      "X": 30.863,
+      "Y": 43.794
     },
     "LayerNumber": 2,
     "BoardThickness":  1.600
