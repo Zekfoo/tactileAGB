@@ -30,7 +30,7 @@ Flex board order link (without START/SELECT) - [OSH Park](https://oshpark.com/sh
 
 PTS526 SM08 SMTR2 LFS (for DPAD and A/B - 1.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/c-k/PTS526-SM08-SMTR2-LFS/10056623)
 
-PTS526 SK08 SMTR2 LFS (for DPAD and A/B - 2.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/c-k/PTS526-SM08-SMTR2-LFS/10056623)
+PTS526 SK08 SMTR2 LFS (for DPAD and A/B - 2.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/c-k/PTS526-SK08-SMTR2-LFS/10056624)
 
 SOG-152ANT (for START/SELECT - 1.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/mitsumi-electric-company-ltd/SOG-152ANT/11591283)
 
