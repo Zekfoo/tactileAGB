@@ -15,7 +15,11 @@ Developed from the ground up, this implementation offers a no-wires-required sol
 
 The tactile buttons are available in two different actuation forces (listed below) - 1.6N or 2.35N/2.6N - to suit your particular feel.
 
-This mod is only compatible with AGB-001. Compatibility with the IPS v2 mod's brightness controls are ensured - just solder the SELECT wire overtop of the TP2 hole.
+This mod is only compatible with AGB-001. 
+
+Due to variability between OEM and different aftermarket buttons and membranes, some adjustments may need to be made to adjust the button height and travel distances - more details in the Installation section.
+
+Compatibility with the IPS v2 mod's brightness controls is ensured - just solder the SELECT wire overtop of the TP2 hole.
 
 
 # Board and Parts Links
@@ -35,7 +39,7 @@ SOG-154ANT (for START/SELECT - 2.35N actuation force) - [Digikey](https://www.di
 
 # Disclaimer
 
-As with all hardware mods, you risk irreparable damage to your device if the proper precautions are not taken. Feel free to reach out for any questions or troubleshooting.
+As with all hardware mods, you risk irreparable damage to your device if the proper precautions are not taken. Due to variability in OEM and aftermarket  Feel free to reach out for any questions or troubleshooting.
 
 
 # Installation
@@ -64,6 +68,10 @@ As with all hardware mods, you risk irreparable damage to your device if the pro
   * TP2 and TP3 for SELECT and START respectively
   * Ground connection to left GND pad
   * (For IPS v2 brightness controls) Solder the SELECT wire from the IPS ribbon cable overtop of the TP2 hole.
+
+**Button height/travel**
+* The button travel distance may need to be adjusted based on individual preference - simply insert some thin cardboard between the tactile buttons and membranes in order to shorten the travel distance 
+* Cardboard may also need to be inserted under the center of the DPAD membrane in order to raise its pivot point - a properly functioning DPAD should only be able to register 2 directions at the same time - if you own a flash cart, you can check using this [ROM](https://github.com/heroldev/AGB-buttontest)
 
 # Acknowledgements
 
