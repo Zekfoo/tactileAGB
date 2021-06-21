@@ -39,7 +39,7 @@ SOG-154ANT (for START/SELECT - 2.35N actuation force) - [Digikey](https://www.di
 
 # Disclaimer
 
-As with all hardware mods, you risk irreparable damage to your device if the proper precautions are not taken. Due to variability in OEM and aftermarket  Feel free to reach out for any questions or troubleshooting.
+As with all hardware mods, you risk irreparable damage to your device if the proper precautions are not taken. Feel free to reach out for any questions or troubleshooting.
 
 
 # Installation
@@ -63,7 +63,7 @@ As with all hardware mods, you risk irreparable damage to your device if the pro
   * (Optional) FR2 can be used as an anchor point
 
 **START/SELECT**
-* Line up the holes labelled TP2 and TP3 with the correspoding test points on the AGB board
+* Line up the holes labelled TP2 and TP3 with the corresponding test points on the AGB board
 * Solder:
   * TP2 and TP3 for SELECT and START respectively
   * Ground connection to left GND pad
