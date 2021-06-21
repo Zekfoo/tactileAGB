@@ -24,9 +24,9 @@ Compatibility with the IPS v2 mod's brightness controls is ensured - just solder
 
 # Board and Parts Links
 
-Flex board order link (Full button set) - [OSH Park](https://oshpark.com/shared_projects/VSVedxko)
+Flex board order link (Full button set) - [OSH Park](https://oshpark.com/shared_projects/nkEyUZyK)
 
-Flex board order link (without START/SELECT) - [OSH Park](https://oshpark.com/shared_projects/1YE4jut3)
+Flex board order link (without START/SELECT) - [OSH Park](https://oshpark.com/shared_projects/dfEWsRv3)
 
 PTS526 SM08 SMTR2 LFS (for DPAD and A/B - 1.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/c-k/PTS526-SM08-SMTR2-LFS/10056623)
 
