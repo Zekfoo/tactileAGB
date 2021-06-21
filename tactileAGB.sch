@@ -157,10 +157,10 @@ F 3 "~" H 2900 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint VDD15
+L Connector:TestPoint VDD-15
 U 1 1 60D0A2DB
 P 1450 2700
-F 0 "VDD15" H 1508 2772 50  0000 L CNN
+F 0 "VDD-15" H 1508 2772 50  0000 L CNN
 F 1 "TestPoint" H 1508 2727 50  0001 L CNN
 F 2 "tactileAGB:Hole-1.5mm" H 1650 2700 50  0001 C CNN
 F 3 "~" H 1650 2700 50  0001 C CNN
