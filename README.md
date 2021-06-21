@@ -15,7 +15,7 @@ Developed from the ground up, this implementation offers a no-wires-required sol
 
 The tactile buttons are available in two different actuation forces (listed below) - 1.6N or 2.35N/2.6N - to suit your particular feel.
 
-This mod is only compatible with AGB-001.
+This mod is only compatible with AGB-001. Compatibility with the IPS v2 mod's brightness controls are ensured - just solder the SELECT wire overtop of the TP2 hole.
 
 
 # Board and Parts Links
@@ -56,4 +56,4 @@ Thanks to [HDR](https://martinrefseth.com/) for compiling his Nintenfo repositor
 
 Feel free to modify this design however you like, but please make sure to give credit where it is due. I encourage you to share your improvements with the rest of the Gameboy modding community at the Gameboy modding [Discord](https://discord.gg/RYN3bMxr) and [Subreddit](https://www.reddit.com/r/Gameboy/)
 
-Under this license, you are not permitted to profit or commercialize this design in any part without my express permission.
+Under this license, you are not permitted to profit from or commercialize this design in any part without my express permission.
