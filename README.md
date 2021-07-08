@@ -5,7 +5,7 @@ CURRENT VERSION - REV 1.1
 
 This mod for the Game Boy Advance (AGB) was inspired by makho's [AGB_TACT](https://github.com/makhowastaken/AGB_TACT) project which added tactile buttons to the AGB to create a similar clicky feel to the GBA SP and more recent Nintendo handhelds.
 
-Developed from the ground up, this implementation offers a no-wires-required solution, consisting of 2 (or 3) flex breakout boards for the DPAD, A/B, and (optionally) START/SELECT.
+Developed from the ground up, this implementation offers a no-wires-required solution, consisting of 3 flex breakout boards for the DPAD, A/B, and START/SELECT.
 
 
 ![Preview](Images/OSHPark-Preview.png)
