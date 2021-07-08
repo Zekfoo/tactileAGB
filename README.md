@@ -1,6 +1,6 @@
 # Background
 
-(WORK IN PROGRESS, STILL IN TESTING)
+CURRENT VERSION - REV 1.1
 
 
 This mod for the Game Boy Advance (AGB) was inspired by makho's [AGB_TACT](https://github.com/makhowastaken/AGB_TACT) project which added tactile buttons to the AGB to create a similar clicky feel to the GBA SP and more recent Nintendo handhelds.
@@ -24,17 +24,11 @@ Compatibility with the IPS v2 mod's brightness controls is ensured - just solder
 
 # Board and Parts Links
 
-Flex board order link (Full button set) - [OSH Park](https://oshpark.com/shared_projects/nkEyUZyK)
+Flex board order link ($20.70 for 3 sets) - [OSH Park](https://oshpark.com/shared_projects/KdYTs0bl)
 
-Flex board order link (without START/SELECT) - [OSH Park](https://oshpark.com/shared_projects/dfEWsRv3)
+SKRRABE010 (for DPAD and A/B - GBA SP Buttons) - [Mouser](https://www.mouser.com/ProductDetail/?qs=m0BA540hBPcAX44PgGtO0w%3D%3D)
 
-PTS526 SM08 SMTR2 LFS (for DPAD and A/B - 1.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/c-k/PTS526-SM08-SMTR2-LFS/10056623)
-
-PTS526 SK08 SMTR2 LFS (for DPAD and A/B - 2.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/c-k/PTS526-SK08-SMTR2-LFS/10056624)
-
-SOG-152ANT (for START/SELECT - 1.6N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/mitsumi-electric-company-ltd/SOG-152ANT/11591283)
-
-SOG-154ANT (for START/SELECT - 2.35N actuation force) - [Digikey](https://www.digikey.ca/en/products/detail/mitsumi-electric-company-ltd/SOG-154ANT/11591258)
+SOG-152ANT (for START/SELECT) - [Digikey](https://www.digikey.ca/en/products/detail/mitsumi-electric-company-ltd/SOG-152ANT/11591283)
 
 
 # Disclaimer
@@ -45,8 +39,8 @@ As with all hardware mods, you risk irreparable damage to your device if the pro
 # Installation
 
 **General:**
-* Solder PTS526 Sx08 SMTR2 LFS buttons to their corresponding footprints on the DPAD and A/B flex boards
-* Solder SOG-15xANT buttons to their corresponding footprints on the START/SELECT flex board
+* Solder SKRRABE010 buttons to their corresponding footprints on the DPAD and A/B flex boards
+* Solder SOG-152ANT buttons to their corresponding footprints on the START/SELECT flex board
 
 **DPAD**
 * Line up the holes labelled TP4, TP5, and TP7 with the corresponding testpoints on the AGB board, this should align all solder points with their corresponding contacts
