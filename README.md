@@ -11,9 +11,7 @@ Developed from the ground up, this implementation offers a no-wires-required sol
 ![Preview](Images/OSHPark-Preview.png)
 
 
-# Mod Options and Compatibility
-
-The tactile buttons are available in two different actuation forces (listed below) - 1.6N or 2.35N/2.6N - to suit your particular feel.
+# Mod Compatibility
 
 This mod is only compatible with AGB-001. 
 
